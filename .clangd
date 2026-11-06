@@ -1,0 +1,4 @@
+CompileFlags:
+  Add:
+    - -IC:/Users/LENOVO/Downloads/project/c++/MathLibrary/include
+    - -IC:/Users/LENOVO/Downloads/project/c++/MathLibrary/src

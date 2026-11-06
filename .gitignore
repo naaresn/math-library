@@ -1,0 +1,5 @@
+.vs/
+build/
+*.ipch
+*.obj
+*.exe
